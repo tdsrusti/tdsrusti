@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SRUSTI T D</h1>
-<h3 align="center">A passionate frontend developer from India.<br>🎓 Final-year Information Science & Engineering student at Dayananda Sagar College of Engineering (CGPA: 9.24) <br>🌐 Passionate about Web Development, Machine Learning, and Data-Driven Applications <br> 🏐 Volleyball Player | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">A passionate frontend developer from India.<br>🎓 Final-year ISE student at Dayananda Sagar College of Engineering (CGPA: 9.24) <br>🌐 Passionate about Web Development, Machine Learning, and Data-Driven Applications <br> 🏐 Volleyball Player | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdsrusti&label=Profile%20views&color=0e75b6&style=flat" alt="tdsrusti" /> </p>
 
